@@ -7,7 +7,7 @@
 </head>
 <body>
 
-   <form action="9.php" method="post">   
+   <form action="index.php" method="post">   
                            
                             
             
